@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h5 {
+    text-align: center;
+}
+
+input, select {
+    margin-left: 40px;
+}
+
+.btn-primary {
+    margin-left: 15px;
+    padding: 5px 20px;
+}
